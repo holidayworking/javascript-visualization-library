@@ -1,17 +1,13 @@
 ---
 title       : JavaScript の可視化ライブラリ達
-subtitle    : BBMTG
+subtitle    : 
 author      : holidayworking
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-widgets     : [bootstrap, mathjax]   # {mathjax, quiz, bootstrap}
+widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
----
-
-$ \pi $
-
 ---
 
 ## 本日紹介するライブラリ達
